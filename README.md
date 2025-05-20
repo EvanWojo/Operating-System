@@ -1,0 +1,1 @@
+Simulated Operating System that offers process switching, device management, files, etc. Various test programs are intitialized in 'init.java' and each of them are created by the OS, given priority for the scheduler, and may allocate memory which is dynamically allocated.
